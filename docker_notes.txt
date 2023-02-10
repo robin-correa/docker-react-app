@@ -1,2 +1,8 @@
 // Create docker image with "react-app" name
 docker build -t react-app .
+
+// Node JS CLI
+docker run -it react-app
+
+// Run via Shell (Linux)
+docker run -it react-app sh
