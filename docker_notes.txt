@@ -1,4 +1,4 @@
-// Create docker image with "react-app" name
+// Build or Rebuild docker image with "react-app" name
 docker build -t react-app .
 
 // Node JS CLI
