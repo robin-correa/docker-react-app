@@ -1,0 +1,2 @@
+// Create docker image with "react-app" name
+docker build -t react-app .
